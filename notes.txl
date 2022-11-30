@@ -1,7 +1,5 @@
-
-
-
 SEP NOTES 
+
 
 GIT- distributed version control system
 
